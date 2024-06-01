@@ -1,0 +1,34 @@
+{
+	"navigation": {
+		"main": "Inicio",
+		"quote": "cotización",
+		"selling_on_cns": "Vender en CNS",
+		"download": "Descargar",
+		"signIn": "Iniciar sesión"
+	},
+	"main_preview": {
+		"title": "Somos especialistas en componentes electrónicos difíciles de encontrar",
+		"desc": "(agotado, obsoleto, grandes volúmenes)"
+	},
+	"sign_up_now": "Inscríbete ahora",
+	"quote": {
+		"looking_for": "¿Busca componentes electrónicos?",
+		"always_in_stock": "Tenemos el 95% de los componentes solicitados siempre en stock",
+		"why_should": "¿Por qué debe presentar una solicitud?",
+		"non_public": "Almacenes no públicos de China y Europa",
+		"give_an": "Haga una oferta en un plazo de 3 días laborables",
+		"own_laboratory": "100% original, laboratorio propio",
+		"request_is_free": "La solicitud es gratuita",
+		"our_customers": "Más de 2000 fabricantes en todo el mundo nuestros clientes",
+		"We_can": "Podemos comprar tus sobras",
+		"send": "Envíe una solicitud de presupuesto y regístrese"
+	},
+	"selling_on_cns": {
+		"join": "Únase a más de 20 proveedores de todo el mundo y a sus canales autorizados que han encontrado en Chipnonstop.com una forma fácil y cómoda de aumentar sus ventas, llegar a nuevos clientes y gestionar su inventario.",
+		"selling": "Vender en Chipnonstop",
+		"after": "Tras comprometerse con un socio proveedor, Chipnonstop publica el inventario disponible para envío en Chipnonstop.com y gestiona todas las transacciones de interfaz y pago del cliente. Todas las ventas son definitivas y Chipnonstop recoge el pago del cliente y asume todos los riesgos. Nuestros socios proveedores nunca deben realizar ningún pago. En el momento del envío, Chipnonstop cobra una pequeña comisión y remite el pago directamente a nuestro socio proveedor.",
+		"we_connect": "Conectamos a los grandes proveedores a una cuenta personal con todas las solicitudes entrantes. También es posible trabajar en la API",
+		"are_you": "¿Está interesado en convertirse en socio proveedor de Chipnonstop?",
+		"if_you": "Si usted es un fabricante de productos electrónicos o un distribuidor autorizado interesado en aumentar la velocidad de sus productos, póngase en contacto con nosotros. \n El mercado Chipnonstop sólo publica el inventario que está disponible para enviar - si usted tiene alguna libre-en-mano o al final de la vida de inventario autorizado entonces nos encantaría charlar con usted más"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"navigation": {
+		"main": "Home",
+		"quote": "Quote",
+		"selling_on_cns": "Selling on CNS",
+		"download": "Download",
+		"signIn": "Sign In"
+	},
+	"main_preview": {
+		"title": "We specialize in hard-to-find electronic components",
+		"desc": "(out of stock, obsolete, huge volumes)"
+	},
+	"sign_up_now": "Sign up now",
+	"quote": {
+		"looking_for": "Looking for electronic components?",
+		"always_in_stock": "We have 95% of requested components always in stock",
+		"why_should": "Why should you submit a request?",
+		"non_public": "Non-public warehouses from China and Europe",
+		"give_an": "Give an offer within 3 working days",
+		"own_laboratory": "100% original, own laboratory",
+		"request_is_free": "Request is free",
+		"our_customers": "2000+ manufacturers worldwide our customers",
+		"We_can": "We can buy your leftovers",
+		"send": "Send a request for quotation and sign up"
+	},
+	"selling_on_cns": {
+		"join": "Join more than 20+ worldwide suppliers and their authorized channels that have found an easy, convenient way to drive sales growth, reach new customers and manage inventory by listing on Chipnonstop.com",
+		"selling": "Selling on Chipnonstop",
+		"after": "After engaging with a supply partner, Chipnonstop publishes the available to ship inventory on Chipnonstop.com and manages all customer interface and payment transactions. All sales are final with Chipnonstop collecting payment from the customer and assuming all risk. No payment is ever due from our supply partners. At time of shipment, Chipnonstop collects a small commission and remits payment directly to our supply partner.",
+		"we_connect": "We connect large suppliers to a personal account with all incoming requests. It is also possible to work on the API",
+		"are_you": "Are you interested in becoming a Chipnonstop supply partner?",
+		"if_you": "If you're an electronic products manufacturer or authorized distributor interested in increasing your product velocity, please contact us.All approved vendors must be certified to ISO9001. \n The Chipnonstop marketplace only publishes inventory that is available to ship – if you have any free-on-hand or end-of-life authorised inventory then we would love to chat with you more"
+	}
+}
