@@ -32,7 +32,7 @@ export const Why: React.FC = () => {
 			</h1>
 			<div className='grid grid-cols-4 gap-3 mt-10'>
 				{data.map(e => (
-					<div className='flex flex-col gap-3 items-center'>
+					<div className='flex flex-col gap-3 items-center' key={e.title}>
 						<Avatar src={e.logo} className='w-[150px] h-[150px] text-large' />
 						<h3 className=' text-lg font-bold text-center'>{e.title}</h3>
 						<p className=' text-sm text-center'>{e.desc}</p>
